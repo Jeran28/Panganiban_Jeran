@@ -359,6 +359,7 @@ p{
   /* -------------------------------certificates-section----------------------------------- */
     .card-title{
         height:72px;
+        margin-bottom: 40px;
     }
 
 
@@ -374,7 +375,7 @@ p{
     
     .skills-box{
         width: 620px;
-        height: 300px;
+        min-height: 300px;
         background-color: #C73659;
         border-radius: 20px;
         display: flex;
@@ -382,7 +383,7 @@ p{
         align-items: center;
         padding-left: 80px;
         padding-right: 80px;
-    
+        padding-bottom: 20px;
     
     }
 
@@ -409,7 +410,7 @@ p{
 
 
     #skills-description{
-        width: 805px;
+        width: 80vw;
         margin-bottom: 3%;
     }
     .skills-box > h3{
